@@ -3,8 +3,11 @@ Perform the experiment using Psychopy. Upload the programs and a single result f
 
 
 Recognition memory tests have 3 parts. You are required to program AND test 2 of these parts.
+
 Part 1: Encoding (programming needed)
+
 Part 2: Short break (no programming) a brief stop period between part 1 and part 3 (eg. 5 min)
+
 Part 3: Recall (programming needed)
 
 **Details:**
