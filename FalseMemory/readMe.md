@@ -1,7 +1,6 @@
 ## Recognition memory test for false memory 
 Perform the experiment using Psychopy. Upload the programs and a single result for the programs after running them.
-Hint1: page 292 of the textbook , experiment in the pink box.
-Hint2: For 6 demos, go to https://www.testable.org/ward and click on: memory for lists.
+
 
 Recognition memory tests have 3 parts. You are required to program AND test 2 of these parts.
 Part 1: Encoding (programming needed)
