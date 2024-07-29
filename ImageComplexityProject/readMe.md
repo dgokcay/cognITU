@@ -11,7 +11,8 @@ objects, faces, scenes). For example, details in face images may help the partic
 they have seen before, but details in object related images might lead to confusion. In addition, there may
 be response related variations between individuals with different levels of visual experience. The findings
 of this experiment can be used in daily life in areas such as marketing.
-Design parameters
+
+## Design parameters
 
 * **Type(s) of stimuli:** Simple or complex images of different types
 
