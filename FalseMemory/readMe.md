@@ -61,3 +61,6 @@ Actually, both parts are quite similar in terms of programming. One part require
 a)	What do you expect in part 2? Explain your hypothesis in detail based on consolidation theory.
 
 b)	Review the words carefully. Can we do this same experiment using artificial neural networks? With what kind of input? Would we obtain similar results between artificial neural networks and humans? Justify your answers carefully for all of words in the lists.
+
+
+This project was prepared by Muhammed Rüşen Birben.
