@@ -26,8 +26,8 @@ etc: Our experiment will consist of 100 images in total. Inter stimulus interval
 be 1 second.
 
 
-* Question to ask the participant and collected response(s) (eg: button press) plus specify if the
-researched issue is open or close wrt the question: Our question will be “Have you seen this image
+* **Question to ask the participant and collected response(s) (eg: button press) plus specify if the
+researched issue is open or close wrt the question:** Our question will be “Have you seen this image
 during this experiment before?”. The participant will answer by pressing buttons, “y” if they think
 they have seen the image before and “n” otherwise. The researched issue is closed with respect to
 the question.
