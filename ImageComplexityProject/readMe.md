@@ -1,8 +1,8 @@
 ## Research question that motivated this experiment:
 
-“Does the complexity of an image, in terms of the number of elements, colors, and intricacy of patterns,
+Does the complexity of an image, in terms of the number of elements, colors, and intricacy of patterns,
 affect the accuracy of its recall? How does this impact vary across different types of images such as objects,
-faces, and scenes?”
+faces, and scenes?
 
 ## Important aspects to study:
 
