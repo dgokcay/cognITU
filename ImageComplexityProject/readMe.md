@@ -39,3 +39,5 @@ press the keys and the recall accuracy.
 ## Hypotheses
 Simple images without much detail will have a higher recall accuracy and the reaction time will be less
 compared to the complex images.
+
+This project was prepared by Hamza Muhammedalıan, Ragib Guliyev, Kutay Arda Dinç and Ulaş Polat.
