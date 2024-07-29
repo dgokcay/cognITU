@@ -33,7 +33,7 @@ during this experiment before?”. The participant will answer by pressing butto
 they have seen the image before and “n” otherwise. The researched issue is closed with respect to
 the question.
 
-* **Dependent variables** (eg reaction time, accuracy): The dependent variables are reaction times to
+* **Dependent variables (eg reaction time, accuracy):** The dependent variables are reaction times to
 press the keys and the recall accuracy.
 
 ## Hypotheses
